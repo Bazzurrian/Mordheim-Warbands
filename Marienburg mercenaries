@@ -1,0 +1,52 @@
+warband: Finanza di Marienburg (Mercenari)
+active: true
+campaign: 
+objective: 
+alignment: Lawful/Neutral
+achievments: |
+    
+Co: 245
+frammenti: 
+equipaggiamento:
+# Max 12 units
+# Racial maximums (Umani):
+# M3, AC7, ABS6, Fo4, R5, Fe3, I5, A4, D10
+eroi:
+    - eroe: Marko Van der Boomen (Capitano) [20PE]
+      stats: M4, AC4, AB4, Fo3, R3, Fe1, I4, A1, D8, 
+      abilità: 
+      armi: spada, pistola da duello 
+      armatura: Armatura Leggera
+      rules: comandante 
+      warbandaddition: 
+
+    - eroe: Mathjs de Jong (bravo) [8PE]
+      stats: M4, AC4, AB3, Fo4, R3, Fe1, I3, A1, D7, 
+      abilità: 
+      armi: alabarda
+      armature; Armatura Leggera
+      rules: 
+      warbandaddition: 
+
+     - eroe: Aaron Van Der Berg (bravo) [8PE]
+      stats: M4, AC4, AB3, Fo4, R3, Fe1, I3, A1, D7, 
+      abilità: 
+      armi: alabarda
+      armature: Armatura Leggera
+      rules: 
+      warbandaddition: 
+
+truppa:
+    - gruppo: Le Veloci Lame (3 spadaccini) [ XP]
+      stats: M4, AC3, AB3, Fo3, R3, F1, I3, A1, D7, Sv-
+      armi : spada
+      armature: scudo, armatura legggera
+
+      gruppo: Punte e Piombo (2 tiratori) [ XP]
+      stats: M4, AC4, AB3, Fo3, R3, F1, I3, A1, D7, Sv-
+      armi : archibugio, balestra, pugnale
+      armature: 
+
+note:|
+    
+   
